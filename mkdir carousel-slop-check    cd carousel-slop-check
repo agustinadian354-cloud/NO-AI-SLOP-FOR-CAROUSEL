@@ -1,0 +1,11 @@
+carousel-slop-check/
+   ├── skills/
+   │   └── carousel-slop-check/
+   │       ├── SKILL.md
+   │       └── eval.md
+   ├── README.md
+   ├── package.json
+   ├── LICENSE
+   ├── .gitignore
+   ├── CONTRIBUTING.md
+   └── GITHUB_SETUP.md
