@@ -1,0 +1,40 @@
+{
+  "name": "carousel-slop-check",
+  "version": "1.0.0",
+  "description": "Deteksi 8 pola AI tells di carousel captions Indonesia tanpa rewrite",
+  "main": "skills/carousel-slop-check/SKILL.md",
+  "type": "module",
+  "keywords": [
+    "ai-detection",
+    "carousel",
+    "instagram",
+    "tiktok",
+    "content-quality",
+    "indonesian",
+    "writing",
+    "ai-slop",
+    "skill"
+  ],
+  "author": "AI Content Advisor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR-USERNAME/carousel-slop-check"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR-USERNAME/carousel-slop-check/issues"
+  },
+  "homepage": "https://github.com/YOUR-USERNAME/carousel-slop-check#readme",
+  "skills": [
+    {
+      "name": "carousel-slop-check",
+      "path": "skills/carousel-slop-check/SKILL.md",
+      "description": "Deteksi AI tells di carousel captions",
+      "tags": ["writing", "ai-detection", "carousel"],
+      "invocation": "/carousel-slop-check"
+    }
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
