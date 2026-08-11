@@ -55,7 +55,7 @@ Below 35/50: revise.
 
 ## Author
 
-[Agustinadian354](https://agustinadian354.com)
+[Agustinadian354](https://github.com/agustinadian354-cloud))
 
 ## License
 
